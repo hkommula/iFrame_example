@@ -1,4 +1,5 @@
 import streamlit as st
+import streamlit.components.v1 as components
 
 # HTML content
 html_content = """
@@ -62,4 +63,4 @@ html_content = """
 """
 
 # Streamlit app
-st.markdown(html_content, unsafe_allow_html=True)
+components.html(html_content, height=800)
