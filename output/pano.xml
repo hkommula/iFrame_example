@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node7" apprev="20913" hassounds="0" appversion="7.1.2">
+  <panorama id="node7">
+    <input levelingpitch="0" width="4869" levelbias="0.400" height="4869" levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" levelingroll="0">
+      <level preload="0" predecode="0" width="4869" height="4869"/>
+      <level preload="0" predecode="0" width="2434" height="2434"/>
+      <level preload="0" predecode="0" width="1217" height="1217"/>
+      <level preload="0" predecode="0" width="608" height="608"/>
+      <level preload="1" predecode="1" width="304" height="304"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-39.4857" fovmode="2">
+      <start projection="4" tilt="-1.61" pan="-43.33" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-50.64" pan="-96.62" fovpixel="2"/>
+      <max fovstereographic="330" tilt="75.48" pan="18.28" scaletofit="1" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata source="" customnodeid="G01" description="" datetime="16/08/2024 12:00 AM" comment="" latitude="" copyright="" author="" tags="StitchedImages" heading="-39.4857" nodeid="node7" title="G01" info="" longitude="">
+      <mapcoords y="-1.1261" y_floorplan_percent="87.42" mapid="FloorPlan01" x="0.299377" x_floorplan_percent="19.4296"/>
+    </userdata>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" wordwrap="1" height="20" enabled="1" bordercolor="0x000000" borderradius="1" textalpha="1" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
+      <hotspot tilt="-7.05" title="G02" description="" pan="-43.24" skinid="ht_node" url="{node4}" target="-103.8/2.1/118.1" id="Point02"/>
+      <hotspot tilt="5.42" title="G03" description="" pan="-43.9" skinid="ht_node" url="{node5}" target="" id="Point03"/>
+      <hotspot tilt="5.13" title="Wollongong Isotope Geochronology Laboratory (WIGL)" description="" pan="-80.58" skinid="ht_url" url="https://www.uow.edu.au/science-medicine-health/research/wollongong-isotope-geochronology-laboratory-wigl/" target="_blank" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" blendtime="1" softedge="0" zoomafteroutfov="40" zoomin="0" zoomout="0" enabled="1" type="crossdissolve" blendcolor="0x000000" zoomfov="40" zoomafterinfov="140" zoomoutpause="1" zoomspeed="2"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" invertwheel="0" contextprojections="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" sensitivity="8" invertcontrol="1" rubberband="0" hideabout="0" contextfullscreen="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="0" width="5064" levelbias="0.400" height="5064" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" levelingroll="0">
+      <level preload="0" predecode="0" width="5064" height="5064"/>
+      <level preload="0" predecode="0" width="2532" height="2532"/>
+      <level preload="0" predecode="0" width="1266" height="1266"/>
+      <level preload="0" predecode="0" width="633" height="633"/>
+      <level preload="1" predecode="1" width="316" height="316"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-45.0667" fovmode="2">
+      <start projection="4" tilt="9.61" pan="-101.39" fov="121.27"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="330" tilt="90" pan="360" scaletofit="1" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata source="" customnodeid="G02" description="" datetime="16/08/2024 12:00 AM" comment="" latitude="" copyright="" author="" tags="StitchedImages" heading="-45.0667" nodeid="node4" title="G02" info="" longitude="">
+      <mapcoords y="-0.725098" y_floorplan_percent="56.29" mapid="FloorPlan01" x="0.33783" x_floorplan_percent="21.9251"/>
+    </userdata>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" wordwrap="1" height="20" enabled="1" bordercolor="0x000000" borderradius="1" textalpha="1" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
+      <hotspot tilt="23.26" title="" description="Microscope" pan="-347.77" skinid="ht_info" url="" target="_top" id="Point01"/>
+      <hotspot tilt="1.77" title="G01" description="" pan="141.612" skinid="ht_node" url="{node7}" target="$fwd" id="Point02"/>
+      <hotspot tilt="-1.64" title="G03" description="" pan="-37.85" skinid="ht_node" url="{node5}" target="139.0/5.8/121.3" id="Point03"/>
+      <hotspot tilt="0" title="G04" description="" pan="-110.55" skinid="ht_node" url="{node6}" target="2.7/1.5/121.3" id="Point04"/>
+      <hotspot tilt="8.95" title="" description="Mini Library" pan="-128.08" skinid="ht_info" url="" target="" id="Point05"/>
+      <hotspot tilt="7.66" title="" description="" pan="-131.54" skinid="ht_image" url="images/UOW_Archive.webp" target="" id="Point06"/>
+      <hotspot tilt="27.21" title="Chronostratigraphic Chart" description="" pan="-312.73" skinid="ht_image" url="images/ChronostratChart2023.png" target="" id="Point07"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" blendtime="1" softedge="0" zoomafteroutfov="40" zoomin="0" zoomout="0" enabled="1" type="crossdissolve" blendcolor="0x000000" zoomfov="40" zoomafterinfov="140" zoomoutpause="1" zoomspeed="2"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" invertwheel="0" contextprojections="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" sensitivity="8" invertcontrol="1" rubberband="0" hideabout="0" contextfullscreen="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingpitch="0" width="5055" levelbias="0.400" height="5055" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" levelingroll="0">
+      <level preload="0" predecode="0" width="5055" height="5055"/>
+      <level preload="0" predecode="0" width="2527" height="2527"/>
+      <level preload="0" predecode="0" width="1263" height="1263"/>
+      <level preload="0" predecode="0" width="631" height="631"/>
+      <level preload="1" predecode="1" width="315" height="315"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-41.3837" fovmode="2">
+      <start projection="4" tilt="-0.32" pan="142.06" fov="121.27"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="330" tilt="90" pan="360" scaletofit="1" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata source="" customnodeid="G03" description="" datetime="16/08/2024 12:00 AM" comment="" latitude="" copyright="" author="" tags="StitchedImages" heading="-41.3837" nodeid="node5" title="G03" info="" longitude="">
+      <mapcoords y="-0.32959" y_floorplan_percent="25.5864" mapid="FloorPlan01" x="0.315857" x_floorplan_percent="20.4991"/>
+    </userdata>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" wordwrap="1" height="20" enabled="1" bordercolor="0x000000" borderradius="1" textalpha="1" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
+      <hotspot tilt="19.07" title="" description="Cutter?" pan="-68.89" skinid="ht_info" url="" target="" id="Point02"/>
+      <hotspot tilt="0" title="G02" description="" pan="-203.06" skinid="ht_node" url="{node4}" target="-100.4/5.5/121.3" id="Point01"/>
+      <hotspot tilt="3.61" title="G01" description="" pan="-218.78" skinid="ht_node" url="{node7}" target="" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" blendtime="1" softedge="0" zoomafteroutfov="40" zoomin="0" zoomout="0" enabled="1" type="crossdissolve" blendcolor="0x000000" zoomfov="40" zoomafterinfov="140" zoomoutpause="1" zoomspeed="2"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" invertwheel="0" contextprojections="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" sensitivity="8" invertcontrol="1" rubberband="0" hideabout="0" contextfullscreen="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingpitch="0" width="5114" levelbias="0.400" height="5114" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" levelingroll="0">
+      <level preload="0" predecode="0" width="5114" height="5114"/>
+      <level preload="0" predecode="0" width="2557" height="2557"/>
+      <level preload="0" predecode="0" width="1278" height="1278"/>
+      <level preload="0" predecode="0" width="639" height="639"/>
+      <level preload="1" predecode="1" width="319" height="319"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-124.646" fovmode="2">
+      <start projection="4" tilt="4.99" pan="-0.97" fov="121.27"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="330" tilt="90" pan="360" scaletofit="1" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata source="" customnodeid="G04" description="" datetime="16/08/2024 12:00 AM" comment="" latitude="" copyright="" author="" tags="StitchedImages" heading="-124.646" nodeid="node6" title="G04" info="" longitude="">
+      <mapcoords y="-0.475159" y_floorplan_percent="36.887" mapid="FloorPlan01" x="1.0849" x_floorplan_percent="70.41"/>
+    </userdata>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" wordwrap="1" height="20" enabled="1" bordercolor="0x000000" borderradius="1" textalpha="1" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
+      <hotspot tilt="2.39" title="G02" description="" pan="-5.4" skinid="ht_node" url="{node4}" target="-45.5/-1.8/121.3" id="Point01"/>
+      <hotspot tilt="13.48" title="What are Metamorphic Rocks?" description="" pan="-314.38" skinid="ht_url" url="https://www.usgs.gov/faqs/what-are-metamorphic-rocks" target="_blank" id="Point02"/>
+      <hotspot tilt="44.35" title="" description="Wifi Modem" pan="-20.13" skinid="ht_info" url="" target="" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" blendtime="1" softedge="0" zoomafteroutfov="40" zoomin="0" zoomout="0" enabled="1" type="crossdissolve" blendcolor="0x000000" zoomfov="40" zoomafterinfov="140" zoomoutpause="1" zoomspeed="2"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" invertwheel="0" contextprojections="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" sensitivity="8" invertcontrol="1" rubberband="0" hideabout="0" contextfullscreen="1" lockedmouse="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="" description="" comment="" copyright="" author="" tags=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map width="561" transparent="0" floorplannorth="0" height="469" type="file" bgcolor="rgba(255, 255, 255, 1)" zoomlevels="1" title="" crispedges="0" tileformat="jpg" id="FloorPlan01" index="0"/>
+</tour>
