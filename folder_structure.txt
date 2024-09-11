@@ -1,0 +1,16 @@
+/my-website
+│
+├── index.html # index.html  
+│
+├── /output                # Pano2VR Outputs Folder.
+│   ├── pano2vr_player.js
+│   ├── skin.js
+│   ├── gginfo.json
+│   ├── pano.xml
+│   ├── preview.jpg
+│   └── /3rdparty
+│   └── /fonts
+│   └── /images
+│   └── /media
+│   └── /tiles
+│
