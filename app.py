@@ -1,3 +1,7 @@
+import streamlit as st
+
+# HTML content
+html_content = """
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -55,3 +59,7 @@
     </main>
 </body>
 </html>
+"""
+
+# Streamlit app
+st.markdown(html_content, unsafe_allow_html=True)
